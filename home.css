@@ -160,9 +160,9 @@ body {
   
   .border-text {
     position: absolute;
-    bottom: -10px;  /* Adjust this value to control the distance from the bottom border */
+    bottom: -10px; 
     left: 50%;
-    transform: translateX(-50%);  /* This will center the text horizontally */
+    transform: translateX(-50%);  
     font-size: 18px;  
     color: black; 
     font-weight: bold;  
